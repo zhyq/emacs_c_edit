@@ -17,3 +17,4 @@
 
 将_emacs 和 .emacs都放在 ~/目录下即可。
 注：为了更好的使用，请看_emacs的文件base.el 和以cy开头的文件
+hi
